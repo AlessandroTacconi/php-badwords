@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+form {
+  margin: 25px;
+}
+
+label,
+textarea,
+input,
+button {
+  display: block;
+}
